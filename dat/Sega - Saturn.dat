@@ -475,9 +475,9 @@ game (
 )
 
 game (
-	name "Arthur to Astaroth no Nazomakaimura - Incredible Toons (Japan)"
-	description "Arthur to Astaroth no Nazomakaimura - Incredible Toons (Japan)"
-	rom ( name "Arthur to Astaroth no Nazomakaimura - Incredible Toons (Japan) (Track 01).bin" size 15031632 crc 19b6e5e6 md5 b948aab1f3f65ec5be4e9f11218e8344 sha1 3d969d5d6cd747bd2dfa2a6ed36d605ab5529c04 )
+	name "Arthur to Astaroth no Nazo Makaimura - Incredible Toons (Japan)"
+	description "Arthur to Astaroth no Nazo Makaimura - Incredible Toons (Japan)"
+	rom ( name "Arthur to Astaroth no Nazo Makaimura - Incredible Toons (Japan) (Track 01).bin" size 15031632 crc 19b6e5e6 md5 b948aab1f3f65ec5be4e9f11218e8344 sha1 3d969d5d6cd747bd2dfa2a6ed36d605ab5529c04 )
 )
 
 game (
@@ -832,6 +832,12 @@ game (
 	name "Black Dawn v1.000 (1997)(Virgin)(PAL)[!]"
 	description "Black Dawn v1.000 (1997)(Virgin)(PAL)[!]"
 	rom ( name "Black Dawn v1.000 (1997)(Virgin)(PAL)(Track 01 of 52)[!].iso" size 15022080 crc 60d7d450 md5 bb8002e86d7418b05ce1202eca6f0bca sha1 4fc467e6ed382d60ae7da95e8fb00bfbe0b15c93 )
+)
+
+game (
+	name "Black Fire (Europe)"
+	description "Black Fire (Europe)"
+	rom ( name "Black Fire (Europe) (Track 1).bin" size 358724688 crc 2b793ac8 md5 795e31405ddb7c092820e24d9f6c3613 sha1 7d1a3eb1023257bc28121b30ade49e94005f3b5c )
 )
 
 game (
@@ -8727,7 +8733,7 @@ game (
 game (
 	name "Sega Screams Volume 1 (USA)"
 	description "Sega Screams Volume 1 (USA)"
-	rom ( name "Sega Screams Volume 1 (USA) (Track 01).bin" size 396394320 crc 9a44e240 md5 90d808a99b2ece485b8920c4ff7f8e50 sha1 55d5e05d4b657b59b7b0f19d2b27de9fb29edb0a )
+	rom ( name "Sega Screams Volume 1 (USA) (Track 01).bin" size 396394320 crc dd653878 md5 ef07576654b7287d9e471fca36f85f51 sha1 596d34fb0d3ea05342516e76db3afcd8ae222b05 )
 )
 
 game (
